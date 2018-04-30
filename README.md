@@ -33,16 +33,16 @@ Dailymotion acted on this breach by informing all of it customers of the breach 
 ## Primary research
 Primary research involves gathering new data that has not been collected before. For example, surveys using questionnaires or interviews with groups of people in a focus group which has been done below.
 
-#### Questions
+### Questions
 #### The image below is the list of questions that were answered on the questionnaire.
 ![image](https://github.com/HORNETJOE/Research/blob/master/image1.png)
 
-#### Answers
+### Answers
 #### Below are the answers that were given to the questions that were on the questionnaire.
 ![image](https://github.com/HORNETJOE/Research/blob/master/image2.png)
 
  
-#### Bar chart
+### Bar chart
 #### The chart below has some data on the choices that were made and the difference between them.
 ![Bar Chart](https://github.com/HORNETJOE/Research/blob/master/Capture.PNG)
 
