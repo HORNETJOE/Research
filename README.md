@@ -27,7 +27,7 @@ The Dailymotion data breach is a good example for vulnerabilities that can be ex
 Dailymotion acted on this breach by informing all of it customers of the breach and advising them to take suitable measures to change information and details on their accounts.
 (http://www.zdnet.com/article/dailymotion-hack-exposes-millions-of-accounts/)
 ### Case study 2
-
+Another example of vulnerabilities that have been exploited in a business would be Equifax data breach that happened in September 2017. This data breach exposed people’s private information such as social security numbers, names, addresses and in some cases driving licence numbers.
  
 
 ## Primary research
