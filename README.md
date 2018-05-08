@@ -28,7 +28,7 @@ Dailymotion acted on this breach by informing all of it customers of the breach 
 
 (http://www.zdnet.com/article/dailymotion-hack-exposes-millions-of-accounts/)
 ### Case study 2
-Another example of vulnerabilities that have been exploited in a business would be Equifax data breach that happened in September 2017. This data breach exposed people’s private information such as social security numbers, names, addresses and in some cases driving licence numbers. This data breach also efected people in the Uk and Canada also. Equifax realesed this infomation to the public 
+Another example of vulnerabilities that have been exploited in a business would be Equifax data breach that happened in September 2017. This data breach exposed people’s private information such as social security numbers, names, addresses and in some cases driving licence numbers. This data breach also effected people in the Uk and Canada also. Equifax realised this information to the public after the incident happened.
 
 (https://www.consumer.ftc.gov/blog/2017/09/equifax-data-breach-what-do)
  
