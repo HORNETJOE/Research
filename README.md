@@ -25,9 +25,11 @@ Another way of reducing vulnerabilities would be to reduce the gap between an em
 ### Case study 1  
 The Dailymotion data breach is a good example for vulnerabilities that can be exploited in a system. The website Dailymotion which is a video-sharing technology platform, was hacked by an unknown group/individual. The breach was carried out on the 20th of October and was announced and made official in November. The damage was over 18.3 million private emails and password were leaked onto the web.
 Dailymotion acted on this breach by informing all of it customers of the breach and advising them to take suitable measures to change information and details on their accounts.
+
 (http://www.zdnet.com/article/dailymotion-hack-exposes-millions-of-accounts/)
 ### Case study 2
 Another example of vulnerabilities that have been exploited in a business would be Equifax data breach that happened in September 2017. This data breach exposed people’s private information such as social security numbers, names, addresses and in some cases driving licence numbers.
+
 (https://www.consumer.ftc.gov/blog/2017/09/equifax-data-breach-what-do)
  
 ## Primary research
