@@ -28,6 +28,7 @@ Dailymotion acted on this breach by informing all of it customers of the breach 
 (http://www.zdnet.com/article/dailymotion-hack-exposes-millions-of-accounts/)
 ### Case study 2
 Another example of vulnerabilities that have been exploited in a business would be Equifax data breach that happened in September 2017. This data breach exposed people’s private information such as social security numbers, names, addresses and in some cases driving licence numbers.
+(https://www.consumer.ftc.gov/blog/2017/09/equifax-data-breach-what-do)
  
 ## Primary research
 Primary research involves gathering new data that has not been collected before. For example, surveys using questionnaires or interviews with groups of people in a focus group which has been done below.
