@@ -47,4 +47,7 @@ Primary research involves gathering new data that has not been collected before.
 ### Bar chart
 #### The chart below has some data on the choices that were made and the difference between them.
 ![Bar Chart](https://github.com/HORNETJOE/Research/blob/master/Capture.PNG)
+### Pie Chart
+#### The Pie chart below is similer to the bar chart above in terms of data but is a diffrent way to look at the data collected.
+![Pie Chart](https://github.com/HORNETJOE/Research/blob/master/piechart.PNG)
 
