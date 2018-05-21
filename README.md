@@ -1,4 +1,4 @@
-# Research
+# How to reduce vunrebilities in a system
 ## Introduction
 This report is about the vulnerabilities during development and how to reduce the amount of vulnerabilities during the development stage of a product or application. It will also go over what a vulnerability is and what is means when it is found or created during development.
 
