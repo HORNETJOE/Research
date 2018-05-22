@@ -56,3 +56,4 @@ After the infoamtion has been gathered we can use Analysis to make a result from
 ![question3](https://github.com/HORNETJOE/Research/blob/master/question3.PNG)
 
 ![question7](https://github.com/HORNETJOE/Research/blob/master/question7.PNG)
+The answer are labeled 1 - 3 for the first question and 1 -
