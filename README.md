@@ -56,4 +56,6 @@ After the infoamtion has been gathered we can use Analysis to make a result from
 ![question3](https://github.com/HORNETJOE/Research/blob/master/question3.PNG)
 
 ![question7](https://github.com/HORNETJOE/Research/blob/master/question7.PNG)
-The answer are labeled 1 - 3 for the first question and 1 -
+The answer are labeled 1 - 3 for the first question and 1 - 5 for the second question. These were the two more important questions that needed to be answerd for this resaerch. they were used to determin weather if people knew about the vulnerabilites that could effect them (In this case the first option "Lack of password strength") and if people also admitted that although they knew that having a weak password could act as a vulnerability to their system they still have weak passwords dispice knowing the risk. This analysis shows that people know about the risks that involve having a weak pasword but contuine to do so eighter through using the same password i.e worring more about remembering the one password rather then multible passwords at once, or by having multible passwords each one not a storng as they could be.
+
+This can be displayed better in the graphs below.
