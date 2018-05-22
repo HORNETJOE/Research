@@ -53,6 +53,6 @@ Primary research involves gathering new data that has not been collected before.
 
 ## Analysis
 After the infoamtion has been gathered we can use Analysis to make a result from the results above for this analysis it would be easier to focus on one section of the results mainly these questions here:
-![question3]()
+![question3](https://github.com/HORNETJOE/Research/blob/master/question3.PNG)
 
-![question7]()
+![question7](https://github.com/HORNETJOE/Research/blob/master/question7.PNG)
