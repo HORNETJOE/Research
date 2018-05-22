@@ -37,7 +37,7 @@ Primary research involves gathering new data that has not been collected before.
 
 ### Questions
 #### The image below is the list of questions that were answered on the questionnaire.
-![image](https://github.com/HORNETJOE/Research/blob/master/image1.png)
+![image](https://github.com/HORNETJOE/Research/blob/master/Questions.PNG)
 
 ### Answers
 #### Below are the answers that were given to the questions that were on the questionnaire.
