@@ -52,11 +52,18 @@ Primary research involves gathering new data that has not been collected before.
 ![Pie Chart](https://github.com/HORNETJOE/Research/blob/master/piechart.PNG)
 
 ## Analysis
-After the infoamtion has been gathered we can use Analysis to make a result from the results above for this analysis it would be easier to focus on one section of the results mainly these questions here:
+After the information has been gathered we can use Analysis to make a result from the results above for this analysis it would be easier to focus on one section of the results mainly these questions here:
 ![question3](https://github.com/HORNETJOE/Research/blob/master/question3.PNG)
 
 ![question7](https://github.com/HORNETJOE/Research/blob/master/question7.PNG)
-The answer are labeled 1 - 3 for the first question and 1 - 5 for the second question. These were the two more important questions that needed to be answerd for this resaerch. they were used to determin weather if people knew about the vulnerabilites that could effect them (In this case the first option "Lack of password strength") and if people also admitted that although they knew that having a weak password could act as a vulnerability to their system they still have weak passwords dispice knowing the risk. This analysis shows that people know about the risks that involve having a weak pasword but contuine to do so eighter through using the same password i.e worring more about remembering the one password rather then multible passwords at once, or by having multible passwords each one not a storng as they could be.
+The answer is labelled 1 - 3 for the first question and 1 - 5 for the second question. These were the two more important questions that needed to be answered for this research. they were used to determine weather if people knew about the vulnerabilities that could affect them (In this case the first option "Lack of password strength") and if people also admitted that although they knew that having a weak password could act as a vulnerability to their system they still have weak passwords despite knowing the risk. This analysis shows that people know about the risks that involve having a weak password but continue to do so even through using the same password i.e. worrying more about remembering the one password rather than multiple passwords at once, or by having multiple passwords each one not a strong as they could be.
 
 This can be displayed better in the graphs below.
+
 ![chart](https://github.com/HORNETJOE/Research/blob/master/questions7and7chart.PNG)
+
+In the chart above the information is displayed is a bar chart which shows the following: for the first question on the chart (Q2 = Question2) it is clear that more people out of the twelve-pick option two what was the "Lack of background image" option which was the correct answer to the question "Which of these would not be a vulnerability?". The first option was "Passwords that lack Strength (i.e. weak passwords)" Which only 3 out of the 20 picked, although 3/20 people think lacking password strength is not a vulnerability, majority of the people picked the right answer showing that they understand what a vulnerability is and that lacking a strong password is a vulnerability to a system.
+
+On the second question located on the right of the bar chart ladled Q7 (Question 7) The choices were mixed mainly with option 2 and option 4. The question was a personal question so the answers would have varied between each person making this a normal outcome however if we decide that option 3 and above are the answers that should be picked (because it would mean that they have medium to strong passwords.) then 7 out of 13 people believe that their passwords are not strong enough to protect them. Although that majority of people believe they have strong passwords and understand that lacking password strength is a vulnerability the other people still understand that lacking password strength is a risk to a system, however still continue to use and willing know that they are using passwords that could pose a vulnerability to their system.
+
+## conclusion
